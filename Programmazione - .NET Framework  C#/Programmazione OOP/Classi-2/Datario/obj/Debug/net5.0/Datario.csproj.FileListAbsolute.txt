@@ -1,0 +1,16 @@
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\Classi-2\Datario\bin\Debug\net5.0\Datario.exe
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\Classi-2\Datario\bin\Debug\net5.0\Datario.deps.json
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\Classi-2\Datario\bin\Debug\net5.0\Datario.runtimeconfig.json
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\Classi-2\Datario\bin\Debug\net5.0\Datario.runtimeconfig.dev.json
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\Classi-2\Datario\bin\Debug\net5.0\Datario.dll
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\Classi-2\Datario\bin\Debug\net5.0\ref\Datario.dll
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\Classi-2\Datario\bin\Debug\net5.0\Datario.pdb
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\Classi-2\Datario\obj\Debug\net5.0\Datario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\Classi-2\Datario\obj\Debug\net5.0\Datario.AssemblyInfoInputs.cache
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\Classi-2\Datario\obj\Debug\net5.0\Datario.AssemblyInfo.cs
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\Classi-2\Datario\obj\Debug\net5.0\Datario.csproj.CoreCompileInputs.cache
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\Classi-2\Datario\obj\Debug\net5.0\Datario.dll
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\Classi-2\Datario\obj\Debug\net5.0\ref\Datario.dll
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\Classi-2\Datario\obj\Debug\net5.0\Datario.pdb
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\Classi-2\Datario\obj\Debug\net5.0\Datario.genruntimeconfig.cache
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\Classi-2\Datario\obj\Debug\net5.0\Datario.csproj.AssemblyReference.cache

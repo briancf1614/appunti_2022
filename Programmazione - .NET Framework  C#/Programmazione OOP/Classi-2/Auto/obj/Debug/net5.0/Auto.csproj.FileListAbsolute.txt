@@ -1,0 +1,16 @@
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\Classi-2\Auto\bin\Debug\net5.0\Auto.exe
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\Classi-2\Auto\bin\Debug\net5.0\Auto.deps.json
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\Classi-2\Auto\bin\Debug\net5.0\Auto.runtimeconfig.json
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\Classi-2\Auto\bin\Debug\net5.0\Auto.runtimeconfig.dev.json
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\Classi-2\Auto\bin\Debug\net5.0\Auto.dll
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\Classi-2\Auto\bin\Debug\net5.0\ref\Auto.dll
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\Classi-2\Auto\bin\Debug\net5.0\Auto.pdb
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\Classi-2\Auto\obj\Debug\net5.0\Auto.csproj.AssemblyReference.cache
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\Classi-2\Auto\obj\Debug\net5.0\Auto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\Classi-2\Auto\obj\Debug\net5.0\Auto.AssemblyInfoInputs.cache
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\Classi-2\Auto\obj\Debug\net5.0\Auto.AssemblyInfo.cs
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\Classi-2\Auto\obj\Debug\net5.0\Auto.csproj.CoreCompileInputs.cache
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\Classi-2\Auto\obj\Debug\net5.0\Auto.dll
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\Classi-2\Auto\obj\Debug\net5.0\ref\Auto.dll
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\Classi-2\Auto\obj\Debug\net5.0\Auto.pdb
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\Classi-2\Auto\obj\Debug\net5.0\Auto.genruntimeconfig.cache

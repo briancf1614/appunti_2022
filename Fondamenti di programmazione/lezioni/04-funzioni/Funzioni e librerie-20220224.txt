@@ -1,0 +1,9 @@
+Funzioni
+CARTELLA
+Esercizi visti durante le lezioni del 02/12/2021 e del 07/12/2021
+
+Argomenti trattati:
+
+uso delle funzioni
+definizione di una funzione
+programmazione top-down

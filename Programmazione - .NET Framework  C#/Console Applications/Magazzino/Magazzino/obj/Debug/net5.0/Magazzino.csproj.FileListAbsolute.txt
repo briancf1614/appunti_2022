@@ -1,0 +1,16 @@
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\Magazzino\Magazzino\bin\Debug\net5.0\Magazzino.exe
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\Magazzino\Magazzino\bin\Debug\net5.0\Magazzino.deps.json
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\Magazzino\Magazzino\bin\Debug\net5.0\Magazzino.runtimeconfig.json
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\Magazzino\Magazzino\bin\Debug\net5.0\Magazzino.runtimeconfig.dev.json
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\Magazzino\Magazzino\bin\Debug\net5.0\Magazzino.dll
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\Magazzino\Magazzino\bin\Debug\net5.0\ref\Magazzino.dll
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\Magazzino\Magazzino\bin\Debug\net5.0\Magazzino.pdb
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\Magazzino\Magazzino\obj\Debug\net5.0\Magazzino.csproj.AssemblyReference.cache
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\Magazzino\Magazzino\obj\Debug\net5.0\Magazzino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\Magazzino\Magazzino\obj\Debug\net5.0\Magazzino.AssemblyInfoInputs.cache
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\Magazzino\Magazzino\obj\Debug\net5.0\Magazzino.AssemblyInfo.cs
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\Magazzino\Magazzino\obj\Debug\net5.0\Magazzino.csproj.CoreCompileInputs.cache
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\Magazzino\Magazzino\obj\Debug\net5.0\Magazzino.dll
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\Magazzino\Magazzino\obj\Debug\net5.0\ref\Magazzino.dll
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\Magazzino\Magazzino\obj\Debug\net5.0\Magazzino.pdb
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\Magazzino\Magazzino\obj\Debug\net5.0\Magazzino.genruntimeconfig.cache

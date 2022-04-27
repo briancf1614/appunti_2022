@@ -1,0 +1,16 @@
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\Classi-2\ClassePersona\bin\Debug\net5.0\ClassePersona.exe
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\Classi-2\ClassePersona\bin\Debug\net5.0\ClassePersona.deps.json
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\Classi-2\ClassePersona\bin\Debug\net5.0\ClassePersona.runtimeconfig.json
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\Classi-2\ClassePersona\bin\Debug\net5.0\ClassePersona.runtimeconfig.dev.json
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\Classi-2\ClassePersona\bin\Debug\net5.0\ClassePersona.dll
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\Classi-2\ClassePersona\bin\Debug\net5.0\ref\ClassePersona.dll
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\Classi-2\ClassePersona\bin\Debug\net5.0\ClassePersona.pdb
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\Classi-2\ClassePersona\obj\Debug\net5.0\ClassePersona.csproj.AssemblyReference.cache
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\Classi-2\ClassePersona\obj\Debug\net5.0\ClassePersona.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\Classi-2\ClassePersona\obj\Debug\net5.0\ClassePersona.AssemblyInfoInputs.cache
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\Classi-2\ClassePersona\obj\Debug\net5.0\ClassePersona.AssemblyInfo.cs
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\Classi-2\ClassePersona\obj\Debug\net5.0\ClassePersona.csproj.CoreCompileInputs.cache
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\Classi-2\ClassePersona\obj\Debug\net5.0\ClassePersona.dll
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\Classi-2\ClassePersona\obj\Debug\net5.0\ref\ClassePersona.dll
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\Classi-2\ClassePersona\obj\Debug\net5.0\ClassePersona.pdb
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\Classi-2\ClassePersona\obj\Debug\net5.0\ClassePersona.genruntimeconfig.cache

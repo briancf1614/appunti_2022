@@ -1,0 +1,16 @@
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\Classi-1\ClasseTriangolo\bin\Debug\net5.0\ClasseTriangolo.exe
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\Classi-1\ClasseTriangolo\bin\Debug\net5.0\ClasseTriangolo.deps.json
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\Classi-1\ClasseTriangolo\bin\Debug\net5.0\ClasseTriangolo.runtimeconfig.json
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\Classi-1\ClasseTriangolo\bin\Debug\net5.0\ClasseTriangolo.runtimeconfig.dev.json
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\Classi-1\ClasseTriangolo\bin\Debug\net5.0\ClasseTriangolo.dll
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\Classi-1\ClasseTriangolo\bin\Debug\net5.0\ref\ClasseTriangolo.dll
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\Classi-1\ClasseTriangolo\bin\Debug\net5.0\ClasseTriangolo.pdb
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\Classi-1\ClasseTriangolo\obj\Debug\net5.0\ClasseTriangolo.csproj.AssemblyReference.cache
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\Classi-1\ClasseTriangolo\obj\Debug\net5.0\ClasseTriangolo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\Classi-1\ClasseTriangolo\obj\Debug\net5.0\ClasseTriangolo.AssemblyInfoInputs.cache
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\Classi-1\ClasseTriangolo\obj\Debug\net5.0\ClasseTriangolo.AssemblyInfo.cs
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\Classi-1\ClasseTriangolo\obj\Debug\net5.0\ClasseTriangolo.csproj.CoreCompileInputs.cache
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\Classi-1\ClasseTriangolo\obj\Debug\net5.0\ClasseTriangolo.dll
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\Classi-1\ClasseTriangolo\obj\Debug\net5.0\ref\ClasseTriangolo.dll
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\Classi-1\ClasseTriangolo\obj\Debug\net5.0\ClasseTriangolo.pdb
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\Classi-1\ClasseTriangolo\obj\Debug\net5.0\ClasseTriangolo.genruntimeconfig.cache

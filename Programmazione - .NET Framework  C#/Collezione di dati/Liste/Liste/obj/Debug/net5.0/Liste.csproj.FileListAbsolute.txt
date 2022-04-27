@@ -1,0 +1,16 @@
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\Liste\Liste\bin\Debug\net5.0\Liste.exe
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\Liste\Liste\bin\Debug\net5.0\Liste.deps.json
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\Liste\Liste\bin\Debug\net5.0\Liste.runtimeconfig.json
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\Liste\Liste\bin\Debug\net5.0\Liste.runtimeconfig.dev.json
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\Liste\Liste\bin\Debug\net5.0\Liste.dll
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\Liste\Liste\bin\Debug\net5.0\ref\Liste.dll
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\Liste\Liste\bin\Debug\net5.0\Liste.pdb
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\Liste\Liste\obj\Debug\net5.0\Liste.csproj.AssemblyReference.cache
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\Liste\Liste\obj\Debug\net5.0\Liste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\Liste\Liste\obj\Debug\net5.0\Liste.AssemblyInfoInputs.cache
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\Liste\Liste\obj\Debug\net5.0\Liste.AssemblyInfo.cs
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\Liste\Liste\obj\Debug\net5.0\Liste.csproj.CoreCompileInputs.cache
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\Liste\Liste\obj\Debug\net5.0\Liste.dll
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\Liste\Liste\obj\Debug\net5.0\ref\Liste.dll
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\Liste\Liste\obj\Debug\net5.0\Liste.pdb
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\Liste\Liste\obj\Debug\net5.0\Liste.genruntimeconfig.cache

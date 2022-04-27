@@ -1,0 +1,18 @@
+Sequenza
+L'algoritmo sequenza consiste nel definire una serie di azioni elementari, ben ordinate che essenzialmente consentono di svolgere 
+le seguenti operazioni: assegnazione di un valore ad una variabile, operazioni aritmetiche come somma, sottrazione, 
+moltiplicazione, divisione e resto di una divisione.
+
+Input e output sono azioni elementari che prevedono l'inserimento di dati in un software e la visualizzazione di risultati ottenuti
+
+Esercizi visti a lezioni il 16/11/2021 e il 22/11/2021
+
+Argomenti trattati:
+
+algoritmo sequenza
+variabili
+costanti
+tipi di dati per numeri interi: byte, short, int, long
+tipi di dati per numeri reali: float, double
+tipi di dati per i caratteri: char
+operatori aritmetici: +, -, *, /, %
