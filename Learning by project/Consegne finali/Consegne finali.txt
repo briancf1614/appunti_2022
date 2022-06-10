@@ -1,0 +1,46 @@
+Consegne finali
+Scadenza giovedì, 9 giugno 2022, 09:00
+La consegna è composta da due parti: lavoro tecnico e presentazione 
+
+Scadenza della consegna: 
+
+lavoro tecnico: 09/06/2022 entro le ore 9.00
+
+presentazione: 09/06/2022 ore 9.00-13.00
+
+Come e a chi consegnare: 
+
+lavoro tecnico: tramite piattaforma FAD con un compito con consegna
+
+presentazione: 10 minuti a gruppo durante l’ultima lezione
+
+Cosa consegnare: documentazione tecnica e trasversale come descritta di seguito
+
+Valutazione: il voto finale sarà composto al 50% dalla soluzione tecnica e progettuale ideata e 50% dalla vs gestione del progetto e dalla presentazione. Dal punto di vista tecnico vi ricordiamo che è previsto che non abbiate ancora tutte le competenze per implementare il vostro progetto. Dal punto di vista delle Soft verranno valutati gli assi che comunemente sono valutati nel mondo del lavoro: analisi dei bisogni, gestione del cliente, lavoro in team, organizzazione del lavoro, valorizzazione del lavoro tramite public speaking.
+
+La valutazione sarà per gruppi. Ove necessario, i docenti si riserveranno la facoltà di valutare singolarmente alcuni allievi ed eventualmente richiedere della documentazione aggiuntiva attestante i compiti da loro svolti all'interno dei gruppi.
+
+
+Cosa ci aspettiamo che consegnate dal punto di vista tecnico (documentazione)
+
+Il progetto con tutte le implementazioni effettuate (1 per gruppo) ed eventualmente il dump (il file .sql) del database.
+
+Un consuntivo finale che vada ad implementare il preventivo compilato per il colloquio conoscitivo col cliente, in allegato trovate un esempio: riprende appunto il preventivo e aggiunge una descrizione dell'attività effettuata e il tempo effettivo impiegato. 
+
+Cosa ci aspettiamo che consegnate dal punto del lavoro trasversale (soft skills)
+
+La presentazione che utilizzerete durante l’esame finale
+
+Tutto il materiale che possa essere utile a mostrare la vostra organizzazione del lavoro e l’andamento del (screenshot, link a risorse web, file vari, ect…). Questa parte non sarà oggetto di valutazione, pertanto andrà benissimo in forma grezza, è necessaria al docente soft skills per fare il punto del lavoro e avere tutti i riferimenti in un unico luogo.
+
+
+Cosa ci aspettiamo dalla presentazione:
+
+Ci aspettiamo che valorizziate il lavoro fatto. Che consegnate al cliente il lavoro pensando che anche il cliente non tecnico, quello che di solito decide se comprare o no, deve poter apprezzare quanto avete fatto.
+
+Presentazione del progetto, delle scelte tecniche, dei tempi, dei vantaggi a scegliere voi.
+
+Racconto di com’è andato il progetto (ad esempio come avete lavorato, con che strumenti, cosa avete scoperto etc etc)
+
+Lo strumento lo decidete voi, date spazio alla creatività.
+
