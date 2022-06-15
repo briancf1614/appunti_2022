@@ -1,24 +1,41 @@
-let cars=[ { "id":0, "Name":"chevrolet chevelle malibu", "Miles_per_Gallon":18, "Cylinders":8, "Displacement":307, "Horsepower":130, "Weight_in_lbs":3504, "Acceleration":12, "origin":["1970-01-01","USA"], "used":true, "demolition":null }, { "id":1, "Name":"buick skylark 320", "Miles_per_Gallon":15, "Cylinders":8, "Displacement":350, "Horsepower":165, "Weight_in_lbs":3693, "Acceleration":11.5, "origin":["1970-01-01","USA"], "used":true, "demolition":null }, { "id":2, "Name":"plymouth satellite", "Miles_per_Gallon":18, "Cylinders":8, "Displacement":318, "Horsepower":150, "Weight_in_lbs":3436, "Acceleration":11, "origin":["1970-01-01","USA"], "used":true, "demolition":null }, { "id":3, "Name":"amc rebel sst", "Miles_per_Gallon":16, "Cylinders":8, "Displacement":304, "Horsepower":150, "Weight_in_lbs":3433, "Acceleration":12, "origin":["1970-01-01","USA"], "used":true, "demolition":null }, { "id":4, "Name":"ford torino", "Miles_per_Gallon":17, "Cylinders":8, "Displacement":302, "Horsepower":140, "Weight_in_lbs":3449, "Acceleration":10.5, "origin":["1970-01-01","USA"], "used":true, "demolition":null } ]
+let requestURL='./json/cars.json';
+let request = new XMLHttpRequest();
+request.open('GET', requestURL);
+request.responseType = 'json';
+request.send();
 
-let carsJson=JSON.stringify(cars);
-console.log(carsJson);
-console.log(typeof carsJson);
-let carsObject=JSON.parse(carsJson);
-console.log(carsObject[0].Name);
 
 let body=document.body
 const div=document.createElement("div");
 div.className="container";
-div.appendChild(newLi);
+body.appendChild(div);
+const h2=document.createElement("h2");
+h2.textContent="List of my favorite machines";
+div.appendChild(h2);
+
 const newLi=document.createElement("ul");
 newLi.className="MyCars";
-newLi.textContent="questaa è una lista delle mie macchine";
-const myCar=document.createElement(li);
-mycar.appendChild(newLi);
-const currentLi=document.getElementById("myCar");
+div.appendChild(newLi);
 
-const container=document.getElementsByClassName("container");
-container.appendChild(newLi);
+
+request.onload = function() {
+    const classe=request.response;
+    console.log(JSON.stringify(classe));
+    classe.forEach(element => {
+    const myCar=document.createElement("li");
+    myCar.className="car";
+    myCar.textContent=`one of my favorite machines with id: ${element.id} è: `+element.Name+"/ of the year: "+element.origin+` and with ${element.Cylinders} of cylinders`;
+    
+    newLi.appendChild(myCar);
+        
+    });
+
+
+
+}
+
+
+
 
 /*let body=document.body;
 let newElement=document.createElement("p");
@@ -26,8 +43,4 @@ let text=document.createTextNode("questa è una lista delle mie macchine");
 newElement.appendChild(text);
 body.appendChild(newElement);
 */
-let p=$('<p class="cars">questa è una lista delle mie macchine</p>');
-p.css("color","red");
 
-$('body').append(p);
-console.log(p);
