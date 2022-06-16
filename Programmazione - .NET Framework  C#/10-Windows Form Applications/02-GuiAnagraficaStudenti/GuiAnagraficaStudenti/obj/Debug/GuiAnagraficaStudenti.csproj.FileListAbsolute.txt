@@ -1,0 +1,15 @@
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\GuiAnagraficaStudenti\GuiAnagraficaStudenti\bin\Debug\GuiAnagraficaStudenti.exe.config
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\GuiAnagraficaStudenti\GuiAnagraficaStudenti\bin\Debug\GuiAnagraficaStudenti.exe
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\GuiAnagraficaStudenti\GuiAnagraficaStudenti\bin\Debug\GuiAnagraficaStudenti.pdb
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\GuiAnagraficaStudenti\GuiAnagraficaStudenti\obj\Debug\GuiAnagraficaStudenti.csproj.AssemblyReference.cache
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\GuiAnagraficaStudenti\GuiAnagraficaStudenti\obj\Debug\GuiAnagraficaStudenti.MDI.resources
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\GuiAnagraficaStudenti\GuiAnagraficaStudenti\obj\Debug\GuiAnagraficaStudenti.Properties.Resources.resources
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\GuiAnagraficaStudenti\GuiAnagraficaStudenti\obj\Debug\GuiAnagraficaStudenti.csproj.GenerateResource.cache
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\GuiAnagraficaStudenti\GuiAnagraficaStudenti\obj\Debug\GuiAnagraficaStudenti.csproj.CoreCompileInputs.cache
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\GuiAnagraficaStudenti\GuiAnagraficaStudenti\obj\Debug\GuiAnagraficaStudenti.exe
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\GuiAnagraficaStudenti\GuiAnagraficaStudenti\obj\Debug\GuiAnagraficaStudenti.pdb
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\GuiAnagraficaStudenti\GuiAnagraficaStudenti\obj\Debug\GuiAnagraficaStudenti.NuovoStudente.resources
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\GuiAnagraficaStudenti\GuiAnagraficaStudenti\obj\Debug\GuiAnagraficaStudenti.VisualizzaStudenti.resources
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\GuiAnagraficaStudenti\GuiAnagraficaStudenti\obj\Debug\GuiAnagraficaStudenti.ModificaStudente.resources
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\GuiAnagraficaStudenti\GuiAnagraficaStudenti\obj\Debug\GuiAnagraficaStudenti.EliminaStudente.resources
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\GuiAnagraficaStudenti\GuiAnagraficaStudenti\obj\Debug\GuiAnagraficaStudenti.VisualizzaElencoClasse.resources
