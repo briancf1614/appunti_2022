@@ -1,4 +1,4 @@
-let requestURL='./json/cars.json';
+let requestURL='https://api.jsonbin.io/b/62af9b53449a1f382110d35f';
 let request = new XMLHttpRequest();
 request.open('GET', requestURL);
 request.responseType = 'json';
