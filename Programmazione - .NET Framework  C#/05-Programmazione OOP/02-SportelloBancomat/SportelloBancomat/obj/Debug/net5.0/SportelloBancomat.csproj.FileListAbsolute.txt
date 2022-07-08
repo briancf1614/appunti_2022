@@ -1,0 +1,16 @@
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\SportelloBancomat\SportelloBancomat\bin\Debug\net5.0\SportelloBancomat.exe
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\SportelloBancomat\SportelloBancomat\bin\Debug\net5.0\SportelloBancomat.deps.json
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\SportelloBancomat\SportelloBancomat\bin\Debug\net5.0\SportelloBancomat.runtimeconfig.json
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\SportelloBancomat\SportelloBancomat\bin\Debug\net5.0\SportelloBancomat.runtimeconfig.dev.json
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\SportelloBancomat\SportelloBancomat\bin\Debug\net5.0\SportelloBancomat.dll
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\SportelloBancomat\SportelloBancomat\bin\Debug\net5.0\ref\SportelloBancomat.dll
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\SportelloBancomat\SportelloBancomat\bin\Debug\net5.0\SportelloBancomat.pdb
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\SportelloBancomat\SportelloBancomat\obj\Debug\net5.0\SportelloBancomat.csproj.AssemblyReference.cache
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\SportelloBancomat\SportelloBancomat\obj\Debug\net5.0\SportelloBancomat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\SportelloBancomat\SportelloBancomat\obj\Debug\net5.0\SportelloBancomat.AssemblyInfoInputs.cache
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\SportelloBancomat\SportelloBancomat\obj\Debug\net5.0\SportelloBancomat.AssemblyInfo.cs
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\SportelloBancomat\SportelloBancomat\obj\Debug\net5.0\SportelloBancomat.csproj.CoreCompileInputs.cache
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\SportelloBancomat\SportelloBancomat\obj\Debug\net5.0\SportelloBancomat.dll
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\SportelloBancomat\SportelloBancomat\obj\Debug\net5.0\ref\SportelloBancomat.dll
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\SportelloBancomat\SportelloBancomat\obj\Debug\net5.0\SportelloBancomat.pdb
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\SportelloBancomat\SportelloBancomat\obj\Debug\net5.0\SportelloBancomat.genruntimeconfig.cache

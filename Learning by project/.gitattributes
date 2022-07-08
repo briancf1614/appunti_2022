@@ -1,0 +1,2 @@
+.zip filter=lfs diff=lfs merge=lfs -text
+Wordle[[:space:]]Hack.zip filter=lfs diff=lfs merge=lfs -text

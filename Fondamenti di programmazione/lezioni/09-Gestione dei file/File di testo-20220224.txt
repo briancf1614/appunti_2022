@@ -1,0 +1,12 @@
+Gestione dei file
+CARTELLA
+Esercizi svolti nella lezione del 22/02/2022
+
+Argomenti trattati:
+
+funzione sizeof
+funzione FILE
+funzione fopen
+funzione fwrite e fread
+funzione feof
+funzione fclose

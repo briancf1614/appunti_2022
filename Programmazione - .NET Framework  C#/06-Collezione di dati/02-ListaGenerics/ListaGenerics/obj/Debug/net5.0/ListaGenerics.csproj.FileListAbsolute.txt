@@ -1,0 +1,16 @@
+C:\Users\r.catalano\source\repos\ListaGenerics\ListaGenerics\bin\Debug\net5.0\ListaGenerics.exe
+C:\Users\r.catalano\source\repos\ListaGenerics\ListaGenerics\bin\Debug\net5.0\ListaGenerics.deps.json
+C:\Users\r.catalano\source\repos\ListaGenerics\ListaGenerics\bin\Debug\net5.0\ListaGenerics.runtimeconfig.json
+C:\Users\r.catalano\source\repos\ListaGenerics\ListaGenerics\bin\Debug\net5.0\ListaGenerics.runtimeconfig.dev.json
+C:\Users\r.catalano\source\repos\ListaGenerics\ListaGenerics\bin\Debug\net5.0\ListaGenerics.dll
+C:\Users\r.catalano\source\repos\ListaGenerics\ListaGenerics\bin\Debug\net5.0\ref\ListaGenerics.dll
+C:\Users\r.catalano\source\repos\ListaGenerics\ListaGenerics\bin\Debug\net5.0\ListaGenerics.pdb
+C:\Users\r.catalano\source\repos\ListaGenerics\ListaGenerics\obj\Debug\net5.0\ListaGenerics.csproj.AssemblyReference.cache
+C:\Users\r.catalano\source\repos\ListaGenerics\ListaGenerics\obj\Debug\net5.0\ListaGenerics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\r.catalano\source\repos\ListaGenerics\ListaGenerics\obj\Debug\net5.0\ListaGenerics.AssemblyInfoInputs.cache
+C:\Users\r.catalano\source\repos\ListaGenerics\ListaGenerics\obj\Debug\net5.0\ListaGenerics.AssemblyInfo.cs
+C:\Users\r.catalano\source\repos\ListaGenerics\ListaGenerics\obj\Debug\net5.0\ListaGenerics.csproj.CoreCompileInputs.cache
+C:\Users\r.catalano\source\repos\ListaGenerics\ListaGenerics\obj\Debug\net5.0\ListaGenerics.dll
+C:\Users\r.catalano\source\repos\ListaGenerics\ListaGenerics\obj\Debug\net5.0\ref\ListaGenerics.dll
+C:\Users\r.catalano\source\repos\ListaGenerics\ListaGenerics\obj\Debug\net5.0\ListaGenerics.pdb
+C:\Users\r.catalano\source\repos\ListaGenerics\ListaGenerics\obj\Debug\net5.0\ListaGenerics.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\CollezioneDati\MatriceInteri\bin\Debug\net5.0\MatriceInteri.exe
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\CollezioneDati\MatriceInteri\bin\Debug\net5.0\MatriceInteri.deps.json
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\CollezioneDati\MatriceInteri\bin\Debug\net5.0\MatriceInteri.runtimeconfig.json
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\CollezioneDati\MatriceInteri\bin\Debug\net5.0\MatriceInteri.runtimeconfig.dev.json
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\CollezioneDati\MatriceInteri\bin\Debug\net5.0\MatriceInteri.dll
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\CollezioneDati\MatriceInteri\bin\Debug\net5.0\ref\MatriceInteri.dll
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\CollezioneDati\MatriceInteri\bin\Debug\net5.0\MatriceInteri.pdb
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\CollezioneDati\MatriceInteri\obj\Debug\net5.0\MatriceInteri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\CollezioneDati\MatriceInteri\obj\Debug\net5.0\MatriceInteri.AssemblyInfoInputs.cache
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\CollezioneDati\MatriceInteri\obj\Debug\net5.0\MatriceInteri.AssemblyInfo.cs
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\CollezioneDati\MatriceInteri\obj\Debug\net5.0\MatriceInteri.csproj.CoreCompileInputs.cache
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\CollezioneDati\MatriceInteri\obj\Debug\net5.0\MatriceInteri.dll
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\CollezioneDati\MatriceInteri\obj\Debug\net5.0\ref\MatriceInteri.dll
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\CollezioneDati\MatriceInteri\obj\Debug\net5.0\MatriceInteri.pdb
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\CollezioneDati\MatriceInteri\obj\Debug\net5.0\MatriceInteri.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\NN_EsercitazioneIntermedia\NN_EsercitazioneIntermedia\bin\Debug\net5.0\NN_EsercitazioneIntermedia.exe
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\NN_EsercitazioneIntermedia\NN_EsercitazioneIntermedia\bin\Debug\net5.0\NN_EsercitazioneIntermedia.deps.json
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\NN_EsercitazioneIntermedia\NN_EsercitazioneIntermedia\bin\Debug\net5.0\NN_EsercitazioneIntermedia.runtimeconfig.json
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\NN_EsercitazioneIntermedia\NN_EsercitazioneIntermedia\bin\Debug\net5.0\NN_EsercitazioneIntermedia.runtimeconfig.dev.json
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\NN_EsercitazioneIntermedia\NN_EsercitazioneIntermedia\bin\Debug\net5.0\NN_EsercitazioneIntermedia.dll
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\NN_EsercitazioneIntermedia\NN_EsercitazioneIntermedia\bin\Debug\net5.0\ref\NN_EsercitazioneIntermedia.dll
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\NN_EsercitazioneIntermedia\NN_EsercitazioneIntermedia\bin\Debug\net5.0\NN_EsercitazioneIntermedia.pdb
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\NN_EsercitazioneIntermedia\NN_EsercitazioneIntermedia\obj\Debug\net5.0\NN_EsercitazioneIntermedia.csproj.AssemblyReference.cache
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\NN_EsercitazioneIntermedia\NN_EsercitazioneIntermedia\obj\Debug\net5.0\NN_EsercitazioneIntermedia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\NN_EsercitazioneIntermedia\NN_EsercitazioneIntermedia\obj\Debug\net5.0\NN_EsercitazioneIntermedia.AssemblyInfoInputs.cache
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\NN_EsercitazioneIntermedia\NN_EsercitazioneIntermedia\obj\Debug\net5.0\NN_EsercitazioneIntermedia.AssemblyInfo.cs
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\NN_EsercitazioneIntermedia\NN_EsercitazioneIntermedia\obj\Debug\net5.0\NN_EsercitazioneIntermedia.csproj.CoreCompileInputs.cache
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\NN_EsercitazioneIntermedia\NN_EsercitazioneIntermedia\obj\Debug\net5.0\NN_EsercitazioneIntermedia.dll
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\NN_EsercitazioneIntermedia\NN_EsercitazioneIntermedia\obj\Debug\net5.0\ref\NN_EsercitazioneIntermedia.dll
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\NN_EsercitazioneIntermedia\NN_EsercitazioneIntermedia\obj\Debug\net5.0\NN_EsercitazioneIntermedia.pdb
+C:\Users\r.catalano\Desktop\Fintech-ProgettiC#\NN_EsercitazioneIntermedia\NN_EsercitazioneIntermedia\obj\Debug\net5.0\NN_EsercitazioneIntermedia.genruntimeconfig.cache

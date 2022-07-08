@@ -1,0 +1,16 @@
+C:\Users\r.catalano\Desktop\Cloud-ProgettiC#\Linq-Esempio\Linq-Esempio\bin\Debug\net5.0\Linq-Esempio.exe
+C:\Users\r.catalano\Desktop\Cloud-ProgettiC#\Linq-Esempio\Linq-Esempio\bin\Debug\net5.0\Linq-Esempio.deps.json
+C:\Users\r.catalano\Desktop\Cloud-ProgettiC#\Linq-Esempio\Linq-Esempio\bin\Debug\net5.0\Linq-Esempio.runtimeconfig.json
+C:\Users\r.catalano\Desktop\Cloud-ProgettiC#\Linq-Esempio\Linq-Esempio\bin\Debug\net5.0\Linq-Esempio.runtimeconfig.dev.json
+C:\Users\r.catalano\Desktop\Cloud-ProgettiC#\Linq-Esempio\Linq-Esempio\bin\Debug\net5.0\Linq-Esempio.dll
+C:\Users\r.catalano\Desktop\Cloud-ProgettiC#\Linq-Esempio\Linq-Esempio\bin\Debug\net5.0\ref\Linq-Esempio.dll
+C:\Users\r.catalano\Desktop\Cloud-ProgettiC#\Linq-Esempio\Linq-Esempio\bin\Debug\net5.0\Linq-Esempio.pdb
+C:\Users\r.catalano\Desktop\Cloud-ProgettiC#\Linq-Esempio\Linq-Esempio\obj\Debug\net5.0\Linq-Esempio.csproj.AssemblyReference.cache
+C:\Users\r.catalano\Desktop\Cloud-ProgettiC#\Linq-Esempio\Linq-Esempio\obj\Debug\net5.0\Linq-Esempio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\r.catalano\Desktop\Cloud-ProgettiC#\Linq-Esempio\Linq-Esempio\obj\Debug\net5.0\Linq-Esempio.AssemblyInfoInputs.cache
+C:\Users\r.catalano\Desktop\Cloud-ProgettiC#\Linq-Esempio\Linq-Esempio\obj\Debug\net5.0\Linq-Esempio.AssemblyInfo.cs
+C:\Users\r.catalano\Desktop\Cloud-ProgettiC#\Linq-Esempio\Linq-Esempio\obj\Debug\net5.0\Linq-Esempio.csproj.CoreCompileInputs.cache
+C:\Users\r.catalano\Desktop\Cloud-ProgettiC#\Linq-Esempio\Linq-Esempio\obj\Debug\net5.0\Linq-Esempio.dll
+C:\Users\r.catalano\Desktop\Cloud-ProgettiC#\Linq-Esempio\Linq-Esempio\obj\Debug\net5.0\ref\Linq-Esempio.dll
+C:\Users\r.catalano\Desktop\Cloud-ProgettiC#\Linq-Esempio\Linq-Esempio\obj\Debug\net5.0\Linq-Esempio.pdb
+C:\Users\r.catalano\Desktop\Cloud-ProgettiC#\Linq-Esempio\Linq-Esempio\obj\Debug\net5.0\Linq-Esempio.genruntimeconfig.cache

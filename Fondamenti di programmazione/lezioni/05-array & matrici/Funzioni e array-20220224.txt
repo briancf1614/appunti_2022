@@ -1,0 +1,11 @@
+Esercizi visti a lezione del 14/12/2021 e del 21/12/2021
+
+Argomenti trattati:
+
+algoritmo ricerca di un elemento in un array
+stampa di un array
+casuali positivi e negativi, intervallo
+matrici
+ricorsione
+array paralleli
+array precaricati
