@@ -1,7 +1,0 @@
-Esercizi visti a lezione del 20/01/2022
-
-Argomenti trattati:
-
-record
-tabelle
-operazioni di ricerca e stampa sulle tabelle

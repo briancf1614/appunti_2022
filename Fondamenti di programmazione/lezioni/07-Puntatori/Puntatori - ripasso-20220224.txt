@@ -1,7 +1,0 @@
-Esercizi visti a lezione del 22/02/2022
-
-Argomenti trattati:
-
-puntatori e funzioni
-puntatori e array
-puntatori e stringhe

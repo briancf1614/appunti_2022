@@ -1,6 +1,0 @@
-Le stringhe
-Uso degli array di caratteri: le stringhe
-
-Libreria string.h
-
-Libreria ctype.h
